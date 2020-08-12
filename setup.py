@@ -37,6 +37,11 @@ setup_requires = []
 tests_require = []
 extras_require = {}
 
+install_requires = []
+setup_requires = []
+tests_require = []
+extras_require = {}
+
 ################################################################################
 # Global variables for controlling the build variant
 ################################################################################
